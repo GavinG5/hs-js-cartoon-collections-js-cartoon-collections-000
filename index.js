@@ -1,6 +1,6 @@
 var dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"];
 
-var dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"];
+
 
 function dwarfRollCall(array) {
     var line = [];
